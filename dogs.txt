@@ -1,0 +1,3 @@
+["Troy", 9, "Mongrel"]
+["Frank", 2, "Belgian Malignios"]
+["James", 3, "Boerboel"]
